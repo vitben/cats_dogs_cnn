@@ -1,1 +1,3 @@
-# cats_dogs_cnn
+# Cats v dogs
+
+Use Convolutional Neural Netweorks to recognize cats and dogs picture. 
